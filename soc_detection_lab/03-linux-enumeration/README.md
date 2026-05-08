@@ -18,7 +18,7 @@ ss -tulnp
 ## Purpose of Commands
 
 | Command | Purpose |
-
+|---|---|
 | whoami | Shows current user |
 | hostname | Displays system hostname |
 | uname -a | Displays kernel and OS info |
