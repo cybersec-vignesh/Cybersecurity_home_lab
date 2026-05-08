@@ -6,14 +6,14 @@ Perform basic Linux system enumeration.
 
 ## Commands Used
 
-'''bash
+```bash
 whoami
 hostname
 uname -a
 ip a
 sudo -l
 ss -tulnp
-'''
+```
 
 ## Purpose of Commands
 
