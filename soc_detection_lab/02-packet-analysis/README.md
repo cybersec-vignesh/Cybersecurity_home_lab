@@ -14,13 +14,13 @@ Capture and analyze ICMP ping traffic using Wireshark.
 Selected the active loopback interface in Wireshark.
 
 ### Applied Filter
-
+```bash
 icmp
-
+```
 ### Generated Traffic
-
+```bash
 ping 10.0.2.15
-
+```
 ## Observations
 - Observed ICMP Echo Request packets
 - Observed ICMP Echo Reply packets
