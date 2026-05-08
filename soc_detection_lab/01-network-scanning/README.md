@@ -16,4 +16,4 @@ nmap -sV 10.0.2.15
 
 ## Screenshot
 
-soc_detection_lab/01-network-scanning/Screenshot 2026-05-09 023502.png
+![Nmap Scan](nmap-scan.png)
