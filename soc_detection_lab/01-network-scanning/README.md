@@ -12,3 +12,8 @@ nmap -sV 10.0.2.15
 - Identified open ports
 - Learned service version detection
 - Understood reconnaissance basics
+
+
+## Screenshot
+
+![Nmap Scan](../screenshots/nmap-scan.png)
